@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm a software engineer. Suprise! 😄
+
+I ❤️ all things frontend: Svelte, React, Deno and more! 🔭
+
+### Be sure to check out:
+- 💬 [My blog](https://loks0n.dev) - discover more about me!
+- ⚡ [rapid-draughts](https://github.com/loks0n/rapid-draughts) - a speedy typescript draughts engine.
+
 
 <!--
 **loks0n/loks0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
