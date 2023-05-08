@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Software Engineer. Suprise! 😄
+I'm a Software Engineer at [Appwrite](https://appwrite.io) 😄
 
 I ❤️ all things frontend: Svelte, React, Deno and more! 🔭
 
