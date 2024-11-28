@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm a Software Engineer at [Appwrite](https://appwrite.io).
+I'm a Platform Engineer at [Appwrite](https://appwrite.io).
 
 ### Be sure to check out:
 - 💬 [My blog](https://loks0n.dev) - discover more about me!
