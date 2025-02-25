@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm a engineer from Nottingham, UK 🇬🇧. The home of Robin Hood and premier league football team Nottingham Forest! I’m currently located in Cambridge, UK.
+I'm a engineer from Nottingham, UK 🇬🇧 and I’m based in Cambridge.
 
 I’m been building since I was in high-school, coding websites, Minecraft mods and more. My classmates used my old school flash-games arcade site to chat and avoid doing work on school computers. I studied Computer Science at University, and went on to write  distributed e-commerce systems at a company called [THG](https://www.thg.com/). Now, I'm building the future of cloud at [Appwrite](https://appwrite.io).
 
