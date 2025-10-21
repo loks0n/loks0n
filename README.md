@@ -1,8 +1,8 @@
 ![Twitter - 1584x386 - Gradient - dark](https://github.com/eldadfux/eldadfux/assets/1297371/ea956b7b-0628-48ad-81a4-b8510f2b939c)
 
-Yo! I'm a engineer from Nottingham, UK 🇬🇧 and I’m based in Cambridge.
+Hey - I'm an engineer based in Cambridge, UK 🇬🇧.
 
-I’m been building since I was in high-school, coding websites, Minecraft mods and more. My classmates used my old school flash-games arcade site to chat and avoid doing work on school computers. I studied Computer Science at University, and went on to write  distributed e-commerce systems at a company called [THG](https://www.thg.com/). Now, I'm building the future of cloud at [Appwrite](https://appwrite.io).
+I’m been building since I was in high-school, coding websites, Minecraft mods and more. My classmates used my old school flash-games arcade site to chat and avoid doing work on school computers. I studied Computer Science at University, and went on to write distributed e-commerce systems at [THG](https://www.thg.com/). Now, I'm building the cloud of the future as a Platform Engineer at [Appwrite](https://appwrite.io).
 
 ### Be sure to check out:
 - 💬 [My blog](https://loks0n.dev) - discover more about me!
