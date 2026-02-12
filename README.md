@@ -2,7 +2,7 @@
 
 Hey - I'm an engineer based in Cambridge, UK 🇬🇧.
 
-I’m been building since I was in high-school, coding websites, Minecraft mods and more. My classmates used my old school flash-games arcade site to chat and avoid doing work on school computers. I studied Computer Science at University, and went on to write distributed e-commerce systems at [THG](https://www.thg.com/). Now, I'm building the cloud of the future as a Engineering Lead at [Appwrite](https://appwrite.io).
+I’m been building since I was in high-school, coding websites, Minecraft mods and more. My classmates used my old school flash-games arcade site to chat and avoid doing work on school computers. I studied Computer Science at University, and went on to build distributed systems at [THG](https://www.thg.com/). Now, I'm building the cloud of the future at [Appwrite](https://appwrite.io).
 
 ### Be sure to check out:
 - 💬 [My blog](https://loks0n.dev) - discover more about me!
